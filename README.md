@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, Javascript, React, Node, SQL Server, Entity Framework, IBM i/AS400, DB2, SOLID principles and Clean Code**
 
-- 📫 Contacto **carlosarielgg1@gmail.com**
+- 📫 Contact: **carlosarielgg1@gmail.com**
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
