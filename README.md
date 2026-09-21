@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgg00&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgg00" /> </p>
 
-- 🌱 Estoy aprendiendo sobre IBM i/AS400 y DB2**
+- 🌱 Estoy aprendiendo sobre **IBM i/AS400 y DB2**
 
-- 💬 Preguntame sobre **C#, Javascript, React, Node, SQL Server, Entity Framework, IBM i/AS400 y DB2**
+- 💬 Preguntame sobre **C#, Javascript, React, Node, SQL Server, Entity Framework, IBM i/AS400, DB2, SOLID principles y Clean Code**
 
 - 📫 Contacto **carlosarielgg1@gmail.com**
 
