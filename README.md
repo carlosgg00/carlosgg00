@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, Soy Carlos García</h1>
-<h3 align="center">Me dedico al desarrollo de aplicaciones web usando C# con ASP.NET, Javascript con React.js, Node.js</h3>
+<h1 align="center">Hi 👋 I am Carlos Garcia</h1>
+<h3 align="center">I am a software developer with experiencie in IBM i (AS400), DB2, C# in .NET, Javascript with React.js, Node.js and MS SQL Server</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgg00&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgg00" /> </p>
 
-- 🌱 Estoy aprendiendo sobre **IBM i/AS400 y DB2**
+- 🌱 I am learning about **IBM i/AS400 y DB2**
 
-- 💬 Preguntame sobre **C#, Javascript, React, Node, SQL Server, Entity Framework, IBM i/AS400, DB2, SOLID principles y Clean Code**
+- 💬 Ask me about **C#, Javascript, React, Node, SQL Server, Entity Framework, IBM i/AS400, DB2, SOLID principles and Clean Code**
 
 - 📫 Contacto **carlosarielgg1@gmail.com**
 
